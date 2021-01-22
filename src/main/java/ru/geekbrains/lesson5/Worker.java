@@ -15,7 +15,7 @@ public class Worker {
 
 
     public void showInfo () {
-        System.out.println("Фамилия Имя: "+ fullName);
+        System.out.println("Фамилия1 Имя: "+ fullName);
         System.out.println("Должность: "+ position);
         System.out.println("email: "+ email);
         System.out.println("Телефон: "+ phoneNumber);

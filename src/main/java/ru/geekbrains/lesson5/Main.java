@@ -19,7 +19,7 @@ public class Main {
         System.out.println();
         workersArray[4].info();
         System.out.println();
-        System.out.println("Данные о сотрудниках старше 40 лет ниже:");
+        System.out.println("Данные о наших сотрудниках старше 40 лет ниже:");
         System.out.println();
 
         for (Worker person: workersArray) {
